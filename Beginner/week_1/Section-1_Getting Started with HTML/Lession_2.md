@@ -4,6 +4,9 @@ To start building your app, you’ll begin by **creating a workspace**.
 A workspace is where **all your files, folders, and code** for your app will be stored and managed.
 
 ---
+🎥 Video Guide
+Watch this video for a visual walkthrough of setting up your workspace:
+👉 [Setting Up Your Workspace – Video]`(https://vimeo.com/284896356/2668dfdfce?share=copy&mc_cid=c2c219346b&mc_eid=3a53c9cb15)`
 
 ## 🧰 Your Workspace Includes:
 
